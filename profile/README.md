@@ -14,7 +14,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 <p>Com prazer apresentamos a VinTech, um projeto com foco no desenvolvimento, produção e a comercialização de  equipamentos para a detecção de temperatura em estufas.</p>
-<p>A TechNoir conta com um time especializado, competente e inovador na área de tecnologia, com foco em qualidade e em transformar processos em uma experiência inesquecível para os nossos clientes. Contudo é de extrema importância ressaltar nossa prioridade com a inovação e com nossos clientes, oferecendo o nosso melhor para revolucionar o seu futuro.
+<p>A TechNoir conta com um time especializado, competente e inovador na área de tecnologia, com <b>foco em qualidade e em transformar processos</b> em uma experiência inesquecível para os nossos clientes. Contudo é de extrema importância ressaltar nossa prioridade com a inovação e com nossos clientes, oferecendo o nosso melhor para revolucionar o seu futuro.
 </p>
 
 <h2>Utilizamos</h2>
